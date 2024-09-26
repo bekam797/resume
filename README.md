@@ -1,11 +1,11 @@
-# Resume Builder for Upwork
+# Resume for Upwork
 
 Quick start guide for Upwork clients:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/resume-builder.git
-   cd resume-builder
+   git clone https://github.com/bekam797/resume
+   cd resume
    ```
 
 2. Install dependencies:
@@ -22,4 +22,4 @@ Quick start guide for Upwork clients:
 
 5. Edit `src/components/ResumeWrapper.tsx` to customize the resume data.
 
-That's it! You now have a working resume builder. Modify the content to fit your needs.
+That's it! You now have a working resume. Modify the content to fit your needs.
